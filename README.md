@@ -15,11 +15,17 @@ With a corpus of both explicit situated facts and implicit commonsense, we gener
 * Situation Commonsense Knowledge Graphs
 * Chain of Reasoning Rationals
 
-![Benchmark Overview](imgs/fig_overview.png "Benchmark Overview")
+<div align="center">
+<img src="img/fig_overview.png" width="800" >
+</div>
 
-## QA Examples
 
-![QA examples](imgs/fig_qa_examples.png "QA examples")
+## Data Example
+
+<div align="center">
+<img src="img/fig_qa_examples.png" width="800" >
+</div>
+
 
 
 
