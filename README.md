@@ -1,4 +1,4 @@
-# SOK-Bench Homepage
+# SOK-Bench
 **[CVPR 2024] SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge**
 
 <!-- 
