@@ -19,14 +19,14 @@ With a corpus of both explicit situated facts and implicit commonsense, we gener
 * Chain of Reasoning Rationals
 
 <div align="center">
-<img src="img/fig_overview.png" width="800" >
+<img src="imgs/fig_overview.png" width="800" >
 </div>
 
 
 ## Data Example
 
 <div align="center">
-<img src="img/fig_qa_examples.png" width="800" >
+<img src="imgs/fig_qa_examples.png" width="800" >
 </div>
 
 
