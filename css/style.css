@@ -164,7 +164,7 @@ input:checked + .slider:before {
     padding: 110px 50px 0 50px;
 }
 
-.section > h3 {
+.section > h4 {
     color: var(--main);
     font-weight: 800;
 }
