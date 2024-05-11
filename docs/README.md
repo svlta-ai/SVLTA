@@ -24,7 +24,7 @@ Reasoning from visual dynamics scenes has many real-world applications. However,
 
 ## Data Download
 
-To download the dataset, please refer to the [SOK-Bench Homepage](http://sokbench.csail.mit.edu) 
+To download the dataset, please refer to the [SOK-Bench Dataset](https://github.com/csbobby/SOK-Bench?tab=readme-ov-file#data-download) 
 
 ## Citation
 Please link back and cite the work if you would like to use the website template.
