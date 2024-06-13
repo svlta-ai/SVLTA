@@ -1,10 +1,9 @@
 ## SVLTA: Benchmarking Vision-Language Temporal Alignment via Synthetic Video Situations
 [SVLTA Homepage](https://svlta-bench.github.io/SVLTA/)  
 
-Our work aims to delve deeper into reasoning evaluations, specifically within dynamic, open-world, and structured context knowledge. 
-We propose a new benchmark, consisting of 44K questions and 10K situations with instance-level annotations depicted in the videos. The reasoning process is required to understand and apply situated knowledge and general knowledge for problem-solving.
-The task generation is facilitated through multiple dialogues as iterations and subsequently corrected and refined by our designed self-promptings and demonstrations.
-With a corpus of both explicit situated facts and implicit commonsense, we generate associated question-answer pairs and reasoning processes, finally followed by manual reviews for quality assurance.
+Vision-language temporal alignment is a crucial capability for human recognition and cognition in real-world scenarios. Although existing works have designed methods to capture vision-language correlations, they are limited by benchmark issues, including biased temporal distributions, imprecise annotations, and inadequate compositionally. To achieve comprehensive evaluation and exploration, our objective is to investigate and evaluate the ability of models to achieve alignment from a temporal perspective, specifically focusing on their capacity to synchronize visual scenarios with linguistic context in a temporally coherent manner. As a preliminary, we first present the statistical analysis of existing benchmarks and reveal the existing challenges from a decomposed perspective. To this end, we introduce **SVLTA**, a synthetic, large-scale, and compositional benchmark for vision-language temporal alignment derived via a well-designed and feasible control generation method within a simulation environment. The approach considers commonsense knowledge, process permutation, and constrained filtering, which generates reasonable, diverse, and balanced data distributions for diagnostic evaluations. Our experiments reveal diagnostic insights through the evaluations in temporal question answering, distributional shift sensitiveness, and temporal alignment adaptation.
+
+
 
 <!-- 
 Reasoning from visual dynamics scenes has many real-world applications. However, existing video reasoning benchmarks are still inadequate since they were mainly designed for factual or situated reasoning and rarely involve broader knowledge in the real world.
