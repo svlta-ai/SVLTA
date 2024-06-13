@@ -18,7 +18,7 @@ Reasoning from visual dynamics scenes has many real-world applications. However,
 * Reasoning Rationals
 
 <div align="center">
-<img src="./imgs/fig_overview.png" width="800" >
+<img src="./imgs/svlta_overview.png" width="800" >
 </div>
 
 ## Data Download
