@@ -1,4 +1,4 @@
-### SVLTA: Benchmarking Vision-Language Temporal Alignment via Synthetic Video Situations
+## SVLTA: Benchmarking Vision-Language Temporal Alignment via Synthetic Video Situations
 [SVLTA Homepage](https://svlta-bench.github.io/SVLTA/)  
 
 Our work aims to delve deeper into reasoning evaluations, specifically within dynamic, open-world, and structured context knowledge. 
