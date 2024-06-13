@@ -18,20 +18,9 @@ Reasoning from visual dynamics scenes has many real-world applications. However,
 * Reasoning Rationals
 
 <div align="center">
-<img src="../imgs/fig_overview.png" width="800" >
+<img src="./imgs/fig_overview.png" width="800" >
 </div>
 
 ## Data Download
 
 To download the dataset, please refer to the [SOK-Bench Dataset](https://github.com/csbobby/SOK-Bench?tab=readme-ov-file#data-download) 
-
-## Citation
-Please link back and cite the work if you would like to use the website template.
-```BibTeX
-@inproceedings{SOK_Bench,
-author={Wang*, Andong and Wu*, Bo and Chen, Sunli and Chen, Zhenfang and Guan, Haotian and Lee, Wei-Ning and Li, Erran Li and Tenenbaum, Joshua B and Gan, Chuang},
-title = {SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge},
-booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-year = {2024}
-}
-```
