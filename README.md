@@ -10,11 +10,11 @@ Reasoning from visual dynamics scenes has many real-world applications. However,
 -->
 
 ## Benchmark Overview
-* 44k Situated Questions
-* 12 Qutestion Types
-* 10k Situation Video Clips
-* Situation Commonsense Knowledge Graphs
-* Reasoning Rationals
+* 96 Human Activity Actions
+* 26.2K Synthetic Video Situations
+* 78K High-quality Timestamps with associated Language Sentence
+* Commonsense Activity Graph
+* Controllable Activity Manuscript
 
 <div align="center">
 <img src="./imgs/svlta_overview.png" width="800" >
@@ -22,4 +22,4 @@ Reasoning from visual dynamics scenes has many real-world applications. However,
 
 ## Data Download
 
-To download the dataset, please refer to the [SOK-Bench Dataset](https://github.com/csbobby/SOK-Bench?tab=readme-ov-file#data-download) 
+To download the dataset, please refer to the [SVLTA Dataset](https://github.com/csbobby/SOK-Bench?tab=readme-ov-file#data-download) 
