@@ -22,4 +22,4 @@ Reasoning from visual dynamics scenes has many real-world applications. However,
 
 ## Data Download
 
-To download the dataset, please refer to the [SVLTA Dataset](https://github.com/csbobby/SOK-Bench?tab=readme-ov-file#data-download) 
+To download the dataset, please refer to the [SVLTA Dataset](https://github.com/SVLTA-Bench/SVLTA_Benchmark) 
