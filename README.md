@@ -12,7 +12,7 @@ Reasoning from visual dynamics scenes has many real-world applications. However,
 ## Benchmark Overview
 * 96 Human Activity Actions
 * 26.2K Synthetic Video Situations
-* 78K High-quality Timestamps with associated Language Sentence
+* 78K High-quality Timestamps with Associated Language Sentence
 * Commonsense Activity Graph
 * Controllable Activity Manuscript
 
