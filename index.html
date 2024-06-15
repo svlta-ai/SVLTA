@@ -79,8 +79,15 @@
 
         <div id="generation" class="section">
             <h4>Generation Process</h4>
-            <p><b>SVLTA</b> consists of 96 different compositional actions, 26.2K synthetic video situations, and 78K high-quality temporal annotations with consistent visual-language semantics. This benchmark can provide a diagnostic evaluations in temporal question answering, distributional shift sensitiveness, and temporal alignment adaptation.
+            <!--<p><b>SVLTA</b> consists of 96 different compositional actions, 26.2K synthetic video situations, and 78K high-quality temporal annotations with consistent visual-language semantics. This benchmark can provide a diagnostic evaluations in temporal question answering, distributional shift sensitiveness, and temporal alignment adaptation.-->
             <!--44K questions and 10K situations with instance-level annotations depicted in the videos. The reasoning process is required to understand and apply situated knowledge and general knowledge for problem-solving.</p>-->
+            The benchmark generation process mainly contains five stages, including (a): Situation Component Initialization stage defines a series of compositional elements, (b): Commonsense Activity Graph stage first builds a graph on the activity
+            commonsense and then use the traversal algorithm and re-weighting sampling to acquire various and
+            meaningful logical action chains, (c): Controllable Activity Manuscript stage operates the actions
+            in logical action chains through different framerates and permutations to obtain the final activity
+            manuscript, thereby balancing the temporal distribution, (d): Synthetic Video and Language Sentence
+            Generation stages convert the generated activity manuscript to the functional programs and utilize it
+            to generate synthetic videos and sentences, and (e): Visual-Language Temporal Alignment stage automatically associates the timestamps with the action in the sentence to obtain high-quality annotations.
             <img src="imgs/svlta_generation_latest.png" width="90%">
         </div>
 
@@ -88,7 +95,7 @@
         <div id="demo" class="section">
 
             <div id="demotooltip"></div>
-            <h4>Data Example</h4>
+            <h4>Data Examples</h4>
             <hr>
             <img src="imgs/fig_qa_examples.png" width="100%">
             <!--
